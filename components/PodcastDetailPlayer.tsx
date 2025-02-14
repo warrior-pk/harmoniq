@@ -5,7 +5,7 @@ import { useRouter } from "next/navigation";
 import { useState } from "react";
 
 import { api } from "@/convex/_generated/api";
-import { useAudio } from '@/providers/AudioProvider';
+import { useAudio } from "@/providers/AudioProvider";
 import { PodcastDetailPlayerProps } from "@/types";
 
 import LoaderSpinner from "./LoaderSpinner";
@@ -92,7 +92,7 @@ const PodcastDetailPlayer = ({
 
           <Button
             onClick={handlePlay}
-            className="text-16 w-full max-w-[250px] bg-orange-1 font-extrabold text-white-1"
+            className="text-16 w-full max-w-[250px] bg-primary-1 font-extrabold text-white-1"
           >
             <Image
               src="/icons/Play.svg"

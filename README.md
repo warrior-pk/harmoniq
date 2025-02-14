@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://www.youtube.com/watch?v=FkowOdMjvYo" target="_blank">
-      <img src="https://github.com/adrianhajdin/jsm_podcastr/assets/151519281/f61a58c2-f144-41f7-8bc9-5ad14752ceb3" alt="Project Banner">
+      <img src="https://github.com/adrianhajdin/jsm_Harmoniq/assets/151519281/f61a58c2-f144-41f7-8bc9-5ad14752ceb3" alt="Project Banner">
     </a>
   <br />
 
@@ -31,7 +31,7 @@
 
 ## 🚨 Tutorial
 
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>. 
+This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>.
 
 If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
 
@@ -39,7 +39,7 @@ If you prefer visual learning, this is the perfect resource for you. Follow our 
 
 ## <a name="introduction">🤖 Introduction</a>
 
-A cutting-edge AI SaaS platform that enables users to create, discover, and enjoy podcasts with advanced features like text-to-audio conversion with multi-voice AI, podcast thumbnail Image generation and seamless playback. 
+A cutting-edge AI SaaS platform that enables users to create, discover, and enjoy podcasts with advanced features like text-to-audio conversion with multi-voice AI, podcast thumbnail Image generation and seamless playback.
 
 If you're getting started and need assistance or face any bugs, join our active Discord community with over **34k+** members. It's a place where people help each other out.
 
@@ -77,7 +77,7 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 👉 **Responsive Design**: Fully functional and visually appealing across all devices and screen sizes.
 
-and many more, including code architecture and reusability 
+and many more, including code architecture and reusability
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
@@ -94,8 +94,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/jsm_podcastr.git
-cd jsm_podcastr
+git clone https://github.com/adrianhajdin/jsm_Harmoniq.git
+cd jsm_Harmoniq
 ```
 
 **Installation**
@@ -259,7 +259,7 @@ html {
 .cl-internal-b3fm6y {
   background: #f97535;
 }
-.cl-formButtonPrimary {
+.cl-formButtonprimary {
   background: #f97535;
 }
 .cl-footerActionLink {
@@ -326,7 +326,7 @@ const config = {
           5: "#2E3036",
           6: "#24272C",
         },
-        orange: {
+        primary: {
           1: "#F97535",
         },
         gray: {
