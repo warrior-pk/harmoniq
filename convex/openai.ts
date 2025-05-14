@@ -31,7 +31,7 @@ export const generateThumbnailAction = action({
     const response = await openai.images.generate({
       model: "dall-e-3",
       prompt,
-      size: "1024x1024",
+      size: "512x512",
       quality: "standard",
       n: 1,
     });
